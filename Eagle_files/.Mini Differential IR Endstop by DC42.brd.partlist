@@ -1,0 +1,29 @@
+Partlist
+
+Exported from Mini Differential IR Endstop by DC42.brd at 12/23/2017 9:38 AM
+
+EAGLE Version 8.0.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package      Library             Position (inch)       Orientation
+
+0V       TPB1,27        B1,27        testpad             (0.125 0.15)          R0
+C1       1nf            C0603        Seeed-OPL-Capacitor (1.025 0.275)         R270
+C2       100nf          C0603        Seeed-OPL-Capacitor (0.725 0.55)          R270
+C3       100uf          PC-D5.3MM    Seeed-OPL-Capacitor (0.6625 0.1625)       R90
+D1       GL480E         IRL80A       led                 (0.45 0.125)          R135
+D2       GL480E         IRL80A       led                 (0.3 0.1)             R135
+D3       0603 red       CHIP-LED0603 led                 (0.875 0.25)          R270
+ICSP     AVR ISP        MA03-2       con-lstb            (0.175 0.5)           R90
+J1       X              1X03_LOCK    SparkFun-Connectors (0.575 0.675)         R0
+L1       1UH-50MA       L0805        Seeed-OPL-Inductor  (0.525 0.55)          R0
+Q1       SFH 3100F      SIDELOOKER   osramSHF3100F       (0.875 0.125)         R45
+R1       6.8K           R0603        Seeed-OPL-Resistor  (1.025 0.375)         R270
+R2       150R           R0603        Seeed-OPL-Resistor  (0.375 0.375)         R180
+R3       120R           R0603        Seeed-OPL-Resistor  (0.2 0.275)           R270
+R4       10K            R0603        Seeed-OPL-Resistor  (0.875 0.525)         R180
+R5       12K            R0603        Seeed-OPL-Resistor  (0.375 0.575)         R180
+R6       330R           R0603        Seeed-OPL-Resistor  (0.875 0.375)         R180
+SIG      TPB1,27        B1,27        testpad             (0.975 0.175)         R0
+U1       Tiny45-20-SMT  SO08-EIAJ    SparkFun-DigitalIC  (0.625 0.4)           R90
