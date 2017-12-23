@@ -11,7 +11,7 @@ It was more quick and cheap to create own PCB for this probe. Gerber files were 
 
 ## Holding bracket
 
-The simplest way to attach this probe to acrylic Geeetech's I3 X is to print out modified version of I3B1-31 bracket. Design is done using FreeCAD (v0.15) instead of Solidworks, for GLP purposes. Holes for screws are only 1.8 mm diam, because it is more simple to drill exact diam for screws you will use instead of correcting CAD file. But if you woulf like to change something - check [modified bracket](https://github.com/liutas4x4/IR-probe_byDC42/tree/master/I3B1-31-Bracket_modified) directory.
+The simplest way to attach this probe to acrylic Geeetech's I3 X is to print out modified version of I3B1-31 bracket. Design is done using FreeCAD (v0.15) instead of Solidworks, for GLP purposes. Holes for screws are only 1.8 mm diam, because it is more simple to drill exact diam for screws you will use instead of correcting CAD file. But if you would like to change something - check [modified bracket](https://github.com/liutas4x4/IR-probe_byDC42/tree/master/I3B1-31-Bracket_modified) directory.
 
 ## Connecting
 
