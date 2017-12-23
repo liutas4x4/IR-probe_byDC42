@@ -12,6 +12,10 @@ It was more quick and cheap to create own PCB for this probe. Gerber files were 
 
 The simplest way to attach this probe to acrylic Geeetech's I3 X is to print out modified version of I3B1-31 bracket. Design is done using FreeCAD (v0.15) instead of Solidworks, for GLP purposes. Holes for screws are only 1.8 mm diam, because it is more simple to drill exact diam for screws you will use instead of correcting CAD file. But if you woulf like to change something - check [modified bracket](https://github.com/liutas4x4/IR-probe_byDC42/tree/master/I3B1-31-Bracket_modified) directory.
 
+## Connecting
+
+This probe is connected to Z_MIN wires on GT2560. If you version of board has only 2 pins, as mine, connect GND to Ground pin of Z_MIN switch, OUT to second pin. Vcc +5 Volts you can obtain from pin on connector for motor driver.
+
 ## Calibration
 
 Very first step - applying firmware code changes to you Marlin. Modified configuration.h and configuration_adv.h can be found at of Marlin [there](https://github.com/liutas4x4/Marlin-1.1.X-Geeetech-I3-Pro-X-GT2560). All things you should do after uploading modified firmware are described at Daviv Crocker's [page](https://miscsolutions.wordpress.com/mini-height-sensor-board/), mentioned above.
