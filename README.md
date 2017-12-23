@@ -6,7 +6,7 @@ This is complete set of files to reproduce fork of David Crocker's [Mini Differe
 
 It was more quick and cheap to create own PCB for this probe. Gerber files were generated using Spurkfun cam profile, copy is placed in separate directory. [Firmvare](https://github.com/dc42/OrmerodSensorBoard/tree/master/Firmware/Mini-differential-IR/V1.0_1.1) and [schematics](https://github.com/dc42/OrmerodSensorBoard/tree/master/SchematicAndPCB/Mini-differential-IR/V1.0_1.1) used can be found at original DC42's GitHub, version 1.1.
  
-#### CAUTION: On photo you see ver 0.1A with wrong marks of +5V and OUT pins. At version 0.1B there on GitHub is set of correct files.
+#### CAUTION: On photo at the ../Eagle_files you see ver 0.1A with wrong marks of +5V and OUT pins. At version 0.1B there on GitHub is set of correct files.
 
 ## Holding bracket
 
