@@ -1,7 +1,7 @@
 # Mini differential IR probe for Z axis, for 3D printer
 <img align="right" src="https://github.com/liutas4x4/IR-probe_byDC42/blob/master/Images/PCB_IR_mounted_LR.jpg"/>
 
-This is complete set of files to reproduce fork of David Crocker's [Mini Differential IR probe](https://miscsolutions.wordpress.com/mini-height-sensor-board/). Desing is slightly changed. Implemented on Geeetech's acrylic [I3 X clone](https://www.prusaprinters.org/prusa-i3/) of [Prusa I3](https://www.prusaprinters.org/prusa-i3/) 3D printer.
+This is complete set of files to reproduce fork of David Crocker's [Mini Differential IR probe](https://miscsolutions.wordpress.com/mini-height-sensor-board/). Desing is slightly changed. Implemented on Geeetech's acrylic [I3 X clone](https://www.geeetech.com/geeetech-unassembled-prusa-i3-x-3d-printer-diy-kit-p-941.html) of [Prusa I3](https://www.prusaprinters.org/prusa-i3/) 3D printer.
 
 ## PCB
 
