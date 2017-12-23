@@ -6,3 +6,5 @@
 Eagle 8.5.1 was used. Keep in mind, PCB was created using SeeedStudio and Sparkfun Eagle libraries connected. CAM job file is in the [separate directory](https://github.com/liutas4x4/IR-probe_byDC42/tree/master/cam_for_Eagle).
 
 There are also all [Gerber files](https://github.com/liutas4x4/IR-probe_byDC42/tree/master/Gerber_files) ready for PCB ordering.
+
+File BOM_to_Mouser.xlsx contains link to all parts used with link to Mouser, except GL480E IR diodes.
