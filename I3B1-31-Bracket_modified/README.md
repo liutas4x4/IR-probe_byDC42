@@ -1,7 +1,10 @@
 # CAD files and STL mesh
 
-<img align="right" src="https://github.com/liutas4x4/IR-probe_byDC42/blob/master/Images/I3B1-31_modified.jpg" alt="I3B1-31 mod" title="I3B1-31 modified part"/>
-<p>I3B1-31 modified part</p>
+<div class = "frog">
+  <img align="right" src="https://github.com/liutas4x4/IR-probe_byDC42/blob/master/Images/I3B1-31_modified.jpg" alt="I3B1-31 mod" title="I3B1-31 modified part"/>
+  <p>I3B1-31 modified part</p>
+</div>
+
 
 
 Created using FreeCAD v0.15. G-code for lazy ones is included too, but keep in mind: 
