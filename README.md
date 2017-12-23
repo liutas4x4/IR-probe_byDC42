@@ -19,6 +19,6 @@ This probe is connected to Z_MIN wires on GT2560. If you version of board has on
 
 ## Calibration
 
-Very first step - applying firmware code changes to you Marlin. Modified configuration.h and configuration_adv.h can be found at of Marlin [there](https://github.com/liutas4x4/Marlin-1.1.X-Geeetech-I3-Pro-X-GT2560). All things you should do after uploading modified firmware are described at Daviv Crocker's [page](https://miscsolutions.wordpress.com/mini-height-sensor-board/), mentioned above.
+Very first step - applying firmware code changes to you Marlin. Modified configuration.h and configuration_adv.h can be found at of Marlin [there](https://github.com/liutas4x4/Marlin-1.1.X-Geeetech-I3-Pro-X-GT2560). Or you can do modifications you need to your specific Marlin by youself. All things you should do after uploading modified firmware are described at Daviv Crocker's [page](https://miscsolutions.wordpress.com/mini-height-sensor-board/), mentioned above.
 
 #### As for December 23, 2017, BILINEAR and LINEAR autoleveling is not working correctly on Geeetech I3, see Issue [#7860](https://github.com/MarlinFirmware/Marlin/issues/7860) for details. Applying bugfix 1.1.X is on the way.
